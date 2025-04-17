@@ -20,12 +20,12 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone git@github.com:3liasP/papumarket.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd figma-showcase
+   cd papumarket
    ```
 
 3. Open `index.html` in your web browser to view the prototypes.
